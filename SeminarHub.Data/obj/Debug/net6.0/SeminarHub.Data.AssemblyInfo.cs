@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SeminarHub.Data")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11d37b57cc0d5e8694b895a7132da74a92796f3c")]
 [assembly: System.Reflection.AssemblyProductAttribute("SeminarHub.Data")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SeminarHub.Data")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
